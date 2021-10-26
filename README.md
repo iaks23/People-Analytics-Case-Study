@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://github.com/iaks23/People-Analytics-Case-Study/blob/main/img/built-with-postgresql.svg)]
+[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://github.com/iaks23/People-Analytics-Case-Study/blob/main/img/built-with-postgresql.svg)](https://forthebadge.com)
 
 # 👨‍👩‍👧‍👦 People Analytics Case Study
 
