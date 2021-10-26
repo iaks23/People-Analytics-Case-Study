@@ -10,6 +10,7 @@
 ### 💡 Don't Forget To
  
 - [ ] Star This Repo 🌟
+- [x] Stay hydrated 🥤
 - [x] Be awesome 💃🏻
 
 ## Table of Contents 📖
