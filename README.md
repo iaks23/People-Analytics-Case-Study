@@ -4,8 +4,12 @@
 
 > A HR analytics case study performed as part of the [SeriousSQL](https://www.datawithdanny.com) course by [Danny Ma](https://www.linkedin.com/in/datawithdanny/).
 
-[![star-useful](https://img.shields.io/badge/🌟-If%20useful-red.svg)](https://shields.io) 
 [![view-repo](https://img.shields.io/badge/View-Repo-blueviolet)](https://github.com/iaks23?tab=repositories)
 [![view-profile](https://img.shields.io/badge/Go%20To-Profile-orange)](https://github.com/iaks23)
+
+> 💡 Don't Forget To
+ 
+- [ ] Star This Repo 🌟
+- [ ] Be awesome 💃🏻
 
 ## Table of Contents 📖
