@@ -7,9 +7,9 @@
 [![view-repo](https://img.shields.io/badge/View-Repo-blueviolet)](https://github.com/iaks23?tab=repositories)
 [![view-profile](https://img.shields.io/badge/Go%20To-Profile-orange)](https://github.com/iaks23)
 
-> 💡 Don't Forget To
+### 💡 Don't Forget To
  
 - [ ] Star This Repo 🌟
-- [ ] Be awesome 💃🏻
+- [x] Be awesome 💃🏻
 
 ## Table of Contents 📖
