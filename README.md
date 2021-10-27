@@ -14,3 +14,17 @@
 - [x] Be awesome 💃🏻
 
 ## Table of Contents 📖
+* 📂 [Exploring Datasets](#datasets)
+
+
+
+
+
+
+# 📁 Exploring Datasets <a name='datasets'> </a>
+
+For the purpose of this case study, we've been provided with 6 tables, the relationship between these tables can be explained with the ERD below.
+
+![ERD]()
+
+
