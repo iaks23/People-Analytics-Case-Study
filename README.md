@@ -25,6 +25,18 @@
 
 For the purpose of this case study, we've been provided with 6 tables, the relationship between these tables can be explained with the ERD below.
 
-![ERD]()
+![ERD](https://github.com/iaks23/People-Analytics-Case-Study/blob/main/img/ERD.png)
+
+
+
+----------------------
+
+© Akshaya Parthasarathy, 2021
+
+For feedback, or if you just feel like saying Hi!
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-parthasarathy23)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aks_sarathy/)
+[![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/longstoryshort_)
 
 
