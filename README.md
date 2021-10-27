@@ -15,7 +15,7 @@
 
 ## Table of Contents 📖
 * 📂 [Exploring Datasets](#datasets)
-        * 🔭[Tables](#tables)
+   * 🔭[Tables](#tables)
 * 🌟 [Something Else](#whatevs)
 
 
