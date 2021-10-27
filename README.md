@@ -15,7 +15,7 @@
 
 ## Table of Contents 📖
 * 📂 [Exploring Datasets](#datasets)
-      * 🔭[Tables](#tables)
+        * 🔭[Tables](#tables)
 * 🌟 [Something Else](#whatevs)
 
 
@@ -85,7 +85,7 @@ ORDER BY from_date;
 
 > ‼️ Issue: Date field messed up here as well, we might need to add on our 18 years to every other single value. 
 
-### `department_employee`
+#### `department_employee`
 
 > Captures information for which department each employee belongs to throughout their career with our company.
 
@@ -102,7 +102,7 @@ ORDER BY from_date;
 
 > ‼️ Fix the 9999-01-01 issue, only add 18 years to the dates. 
 
-### `department_manager`
+#### `department_manager`
 
 >  Shows the `employee_id` of the manager of each department throughout time.
 
@@ -121,7 +121,7 @@ ORDER BY from_date;
 
 > ‼️ Fix the 9999-01-01 issue, only add 18 years to the dates. 
 
-### `department`
+#### `department`
 
 > Maps each department id, to the name. 
 
