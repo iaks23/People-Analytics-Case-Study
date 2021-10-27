@@ -15,6 +15,8 @@
 
 ## Table of Contents 📖
 * 📂 [Exploring Datasets](#datasets)
+      * 🔭[Tables](#tables)
+* 🌟 [Something Else](#whatevs)
 
 
 
@@ -26,6 +28,28 @@
 For the purpose of this case study, we've been provided with 6 tables, the relationship between these tables can be explained with the ERD below.
 
 ![ERD](https://github.com/iaks23/People-Analytics-Case-Study/blob/main/img/ERD.png)
+
+> ‼️ HR Analytica has let us know that The date fields in the tables were accidentally input with incorrect year values due to a young intern accidentally messing up their data entry process! This has to be fixed before moving onto the business requirements! 
+
+### 🔭 Closer view of the tables <a name='tables'></a>
+
+#### `employee`
+
+```sql
+SELECT *
+FROM employees.employee
+LIMIT 3;
+```
+
+|id|	birth_date|	first_name|	last_name|	gender|	hire_date|
+|---|---|---|---|---|---|
+|10001|	1953-09-02|	Georgi|	Facello| M |1986-06-26|
+|10002|	1964-06-02|	Bezalel|	Simmel|	F	|1985-11-21|
+|10003|	1959-12-03|	Parto|	Bamford|	M|	1986-08-28|
+
+> ‼️ Issue: Our young unlucky intern accidentally input the year which is 18 years behind what it should be
+
+
 
 
 
